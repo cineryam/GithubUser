@@ -1,7 +1,7 @@
 # MyStoryApp
 ## Android Application with Enhanced Features
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](/LICENSE)
 
 This repository contains the final submission of the **MyStoryApp**, developed as part of the **Android Application Fundamental** course by Dicoding. Please note that this README serves as a reference and should not be plagiarized. 
 
