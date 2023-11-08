@@ -37,7 +37,7 @@ To ensure a high-quality implementation, the following best practices have been 
 Contributions to the MyStoryApp project are welcome. If you find any issues or have suggestions for improvement, feel free to submit a pull request or open an issue.
 
 ### License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the [MIT License](/LICENSE).
 
 ⚠️ **Warning**: Please respect the academic integrity policy. Do not copy this project as your own. Use it as a reference and a source of inspiration for your own learning and development.
 
